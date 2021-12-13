@@ -1,0 +1,80 @@
+
+body { background-color:rgb(250, 226, 168); font-family:"Showcard Gothic"; font-size: 20px;}
+
+.text {
+	width:40%;
+}
+
+.size1 {
+	min-height:500px;
+	height: 40%;
+}
+
+.size2 {
+	min-height:540px;
+	height: 40%;
+}
+
+.logo {
+	width:150px;
+	height:150px;
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.center {
+  margin: auto;
+  width: 85%;
+  border: 5px solid #303BCE;
+  padding: 10px;
+  border-radius:15px;
+}
+
+footer {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   padding-top:25px;
+}
+
+p {
+	padding-left: 15px;
+}
+
+.img1 {
+	width:20%;
+	height:40%;
+	float:right;
+	padding: 40px;
+}
+
+.img2 {
+	width:55%;
+	height:100%;
+	float:right;
+}
+
+
+.img3 {
+	width:40%;
+	height:75%;
+	float:right;
+}
+
+li {
+	padding:5px;
+}
+
+.line {
+	padding-top:5px;
+	border-top: 3px solid black;
+}
